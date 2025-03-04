@@ -1,2 +1,1 @@
-# Python-Module
-Welcome to the Python Jungle!
+# Welcome to the Python Jungle!
