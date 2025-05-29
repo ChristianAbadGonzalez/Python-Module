@@ -32,7 +32,7 @@ def solicitar_contrasena_segura():
     else:
         print("La contraseña introducida no es segura. " \
               "Se sugiere una nueva contraseña.")
-        sugerencia = generador.generar_contrasena()
+        sugerencia = generador.generar_contrasena(9)
         print(f"La contraseña sugerida es: {sugerencia}")
 
 solicitar_contrasena_segura()
